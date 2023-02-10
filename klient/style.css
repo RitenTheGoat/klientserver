@@ -1,0 +1,16 @@
+.todo{
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    background-color: rgb(92, 92, 92);
+}
+#lista{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 25px;
+}
+body{
+    background-color: rgb(148, 148, 148);
+}
